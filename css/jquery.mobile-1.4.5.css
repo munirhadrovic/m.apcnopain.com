@@ -1099,7 +1099,7 @@ html head + body .ui-body-a.ui-focus {
 html .ui-bar-b .ui-bar-inherit,
 html .ui-body-b .ui-bar-inherit,
 html body .ui-group-theme-b .ui-bar-inherit {
-	background: url(Untitled.png);
+	background: url(images/Untitled.png);
 	border-color:	 		#303332 /*{b-bar-border}*/;
 	color: 					#fff /*{b-bar-color}*/;
 }
@@ -1461,7 +1461,7 @@ div.ui-mobile-viewport {
 }
 .ui-header .ui-title,
 .ui-footer .ui-title {
-	font-size: 1em;
+	font-size: 13px;
 	min-height: 1.1em;
 	text-align: center;
 	display: block;
